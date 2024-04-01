@@ -1,2 +1,2 @@
-# primeiro_reposit-rio_de_autentica-o_DIO
+# primeiro_repositório_de_autenticão_DIO
 repositório de trenamento do github, do eu aluno DIO
